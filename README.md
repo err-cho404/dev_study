@@ -1,6 +1,2 @@
-## practice
-<!--- ### Mini profile --->
-
 <p align=center>😃err-cho404's development study😃</p>
-
 <br>
