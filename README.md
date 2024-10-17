@@ -1,3 +1,3 @@
 <br>
-<p align=center>😃err-cho404's JAVA Development study😃</p>
+<p align=center>😃err-cho404's JAVA development study😃</p>
 <br>
