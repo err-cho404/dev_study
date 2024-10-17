@@ -1,0 +1,35 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"  trimDirectiveWhitespaces="true" %>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style>
+ 	nav li {
+ 		display : inline-block;
+ 		width : 80px;
+ 		height : 25px;
+ 		border : 1px solid blue;
+ 		background: tomato;
+ 	}
+ 	nav li a{
+ 		text-decoration : none;
+ 		color : black;
+ 	}
+</style>
+</head>
+<body>
+	<header>
+		<nav>
+			<ul>
+				<li><a href="#">메뉴001</a></li>  
+				<li><a href="#">메뉴002</a></li>
+				<li><a href="#">메뉴003</a></li>
+				<li><a href="#">메뉴004</a></li>
+				<li><a href="#">메뉴005</a></li>
+				<li><a href="#">메뉴006</a></li>
+				<li><a href="#">메뉴007</a></li>
+			</ul>
+		</nav>
+	</header>
